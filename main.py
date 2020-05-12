@@ -18,9 +18,9 @@ def sendTelegramMsg(APIKey, chatID, text):
 # ------------ 사용 전 직접 설정해 주어야 하는 부분 ------------
 
 # 텔레그램 설정
-TelAPI = "1110233940:AAHw-VG18Qkw5v2Vs43oHwAeH-a9jOKVKik" # 텔레그램 봇키
-TelChan = "@qwtesdgasdfadv" # 주소
-updTime = 120
+TelAPI = "" # 텔레그램 봇키
+TelChan = "" # 주소
+updTime = 120 #second
 
 # 갤러리 설정 
 gall = ['baseball_new8',]
